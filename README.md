@@ -2,6 +2,8 @@
 
 NWPU学生
 
+不会开发，想搞开发
+
 - java-springboot
 
 - python-django
