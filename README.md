@@ -2,7 +2,7 @@
 
 NWPU学生
 
-不会开发，想搞开发
+完全不会开发，想从0搞开发
 
 - java-springboot
 
